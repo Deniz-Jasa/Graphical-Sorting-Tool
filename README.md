@@ -6,5 +6,11 @@ Description: This tool graphically sorts and searches from a list of random inte
     2. Insertion sort
     3. Merge sort
     4. Binary Search 
+    
+Merge Sort Demo:
 
-![Screen Shot 2021-02-06 at 12 46 50 PM](https://user-images.githubusercontent.com/46465622/107125694-6f259e80-6879-11eb-9f59-d4465dea6ed4.png)
+![demo3](https://user-images.githubusercontent.com/46465622/107127267-0b07d800-6883-11eb-8143-8675dd8d5c17.gif)
+
+Tool Interface:
+
+![demo1](https://user-images.githubusercontent.com/46465622/107127222-a77daa80-6882-11eb-9dc0-6db52c5ee123.JPG)
