@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="JASARBASIC_Deniz_TowersOfHanoi" />
+		<Option execution_dir="C:/Users/Deniz/Desktop/School Projects/ICS4U - Deniz Jasarbasic/CPP Classes and Obj Oritented Exercies/Exercise3.03/JASARBASIC_Deniz_TowersOfHanoi/" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/JASARBASIC_Deniz_TowersOfHanoi" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/JASARBASIC_Deniz_TowersOfHanoi" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="allegro_setup.cpp" />
+		<Unit filename="game_systems.cpp" />
+		<Unit filename="graphical_sorting_main.cpp" />
+		<Unit filename="menu_game_systems.h" />
+		<Unit filename="menu_systems.cpp" />
+		<Unit filename="sorting_algorithms.cpp" />
+		<Unit filename="sorting_algorithms.h" />
+		<Unit filename="sorting_program.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

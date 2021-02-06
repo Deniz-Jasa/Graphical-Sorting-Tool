@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1605470375 source:c:\users\deniz\desktop\recursive-sorting-assignment-deniz-jasa-master\allegro_setup.cpp
+	"sorting_program.h"
+
+1605458630 c:\users\deniz\desktop\recursive-sorting-assignment-deniz-jasa-master\sorting_program.h
+	<iostream>
+	<cstdlib>
+	<allegro5/allegro5.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"apvector.h"
+	"ConsoleColor.h"
+	"menu_game_systems.h"
+	"sorting_algorithms.h"
+
+1605028081 c:\users\deniz\desktop\recursive-sorting-assignment-deniz-jasa-master\apvector.h
+	"apvector.cpp"
+
+1605028081 c:\users\deniz\desktop\recursive-sorting-assignment-deniz-jasa-master\apvector.cpp
+	<cstdlib>
+	<cassert>
+	<iostream>
+	"apvector.h"
+
+1605028081 c:\users\deniz\desktop\recursive-sorting-assignment-deniz-jasa-master\consolecolor.h
+	<iostream>
+	<windows.h>
+
+1605470172 c:\users\deniz\desktop\recursive-sorting-assignment-deniz-jasa-master\menu_game_systems.h
+	"sorting_program.h"
+
+1605459829 source:c:\users\deniz\desktop\recursive-sorting-assignment-deniz-jasa-master\graphical_sorting_main.cpp
+	"sorting_program.h"
+
+1605471809 source:c:\users\deniz\desktop\recursive-sorting-assignment-deniz-jasa-master\menu_systems.cpp
+	"sorting_program.h"
+
+1605475418 source:c:\users\deniz\desktop\recursive-sorting-assignment-deniz-jasa-master\sorting_algorithms.cpp
+	"sorting_program.h"
+
+1605472221 source:c:\users\deniz\desktop\recursive-sorting-assignment-deniz-jasa-master\game_systems.cpp
+	"sorting_program.h"
+	<algorithm>
+
+1605463862 c:\users\deniz\desktop\recursive-sorting-assignment-deniz-jasa-master\sorting_algorithms.h
+	"sorting_program.h"
+
